@@ -1,0 +1,8 @@
+---
+title: "WimRmd"
+author: "Wim Mertens"
+date: "21/04/2021"
+output: html_document
+---
+
+Dit is een eerst tekst van Wim.
