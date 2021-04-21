@@ -5,3 +5,6 @@ De eerste keer voeg ik deze twee zinnetjes toe.
 
 Daarna voeg ik zinnetjes toe, maar ik laat er enkele uit om te zien wat dat geeft.
 Deze mag er dan weer wel bij.
+
+Dit is een aanpassing die los staat van de volgende regel.
+Deze regel wil ik apart committen.
