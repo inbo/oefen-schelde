@@ -2,3 +2,6 @@ Dit is een tekstbestand om te oefenen met github :)
 
 Nu pas ik een aantal lijnen aan in dit bestand.
 De eerste keer voeg ik deze twee zinnetjes toe.
+
+Daarna voeg ik zinnetjes toe, maar ik laat er enkele uit om te zien wat dat geeft.
+Deze mag er dan weer wel bij.
