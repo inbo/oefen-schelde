@@ -21,7 +21,7 @@ summary(cars)
 
 # Een titelke
 
-Dat het een flinke opdracht zal worden om zo een rapport te maken - smily.
+Dat het een flinke opdracht zal worden om zo een rapport te maken - smiley.
 
 
 
