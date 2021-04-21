@@ -1,1 +1,4 @@
 Dit is een tekstbestand om te oefenen met github :)
+
+Nu pas ik een aantal lijnen aan in dit bestand.
+De eerste keer voeg ik deze twee zinnetjes toe.
