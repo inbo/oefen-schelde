@@ -17,7 +17,12 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
-str(cars)
+```
+
+
+```{r laden libraries}
+library(tidyverse)
+library(INBOtheme)
 ```
 
 ## Including Plots
